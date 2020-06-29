@@ -1,7 +1,7 @@
 import java.util.Scanner;
 
 public class FizzBuzz {
-	//Metodo condicional
+	//Metodo condicionals
 	static void condicional(int valor){
 		if (valor%5 ==0 && valor %3==0) {
 			System.out.println("FizzBuzz");
